@@ -8,6 +8,6 @@
 📌 영어 버전
 
 	🏛️ Civil Law Study Log (Korean Law)
-		•	Feb: Concept review & summaries 📚
+	•	Feb: Concept review & summaries 📚
 	•	March+: Past exam questions & mistake notes ✍️
 	•	Using Git for version control & study tracking 📌
